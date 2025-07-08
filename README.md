@@ -1,6 +1,7 @@
 # Brute Force Login Script
 
 Script ini digunakan untuk melakukan brute force login pada halaman web tertentu yang menggunakan CAPTCHA sederhana dan PIN sebagai password.
+serta sebagai pengingat untuk website diluar sana yang masih memakai captcha dan password yang lemah xixixixi
 
 ## Fitur
 - Input URL, username, dan range PIN langsung dari terminal
@@ -19,10 +20,11 @@ Script ini digunakan untuk melakukan brute force login pada halaman web tertentu
    python 1.py
    ```
 4. Masukkan data sesuai prompt:
-   - `masukan url :` (contoh: https://siamik.upnjatim.ac.id/html/siamik/login2023.asp)
-   - `username :` (contoh: 23083010056)
-   - `masukan PIN awal :` (contoh: 60000)
-   - `masukan PIN akhir :` (contoh: 70000)
+   - `masukan url :` (contoh: https:login_page.com)
+   - `username :` (contoh: 2308*****)
+masukan range
+   - `masukan  PIN awal :` (contoh: dari 60000)
+   - `masukan PIN akhir :` (contoh: sampai 70000)
 
 ## Catatan Penting
 - Gunakan script ini hanya untuk tujuan edukasi dan pengujian keamanan milik sendiri.
