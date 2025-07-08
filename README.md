@@ -1,7 +1,7 @@
 # Brute Force Login Script
 
 Script ini digunakan untuk melakukan brute force login pada halaman web tertentu yang menggunakan CAPTCHA sederhana dan PIN sebagai password.
-serta sebagai pengingat untuk website diluar sana yang masih memakai captcha dan password yang lemah xixixixi
+serta sebagai pengingat untuk website diluar sana yang masih memakai format captcha dan password yang lemah xixixixi
 
 ## Fitur
 - Input URL, username, dan range PIN langsung dari terminal
